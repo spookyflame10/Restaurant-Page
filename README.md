@@ -1,3 +1,4 @@
 # Restaurant-Page
-Restaurant page build with HTML, CSS, and JavaScript. Utilized Webpack and npm.  
+Restaurant page build with HTML, CSS, and JavaScript. The webpage is dynamically rendered with JavaScript
+Utilized Webpack and npm.  
 [live](https://spookyflame10.github.io/Restaurant-Page/)  
